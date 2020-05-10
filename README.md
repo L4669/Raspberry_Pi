@@ -36,4 +36,4 @@ settings and configuration files for pi
 	nomail
 }
 ```
-
+* Unable to configure Nextcloud to use external USB. Stuck at login page. Does not accept username and password and goes in loop.
